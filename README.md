@@ -1,18 +1,28 @@
-# CPE322
-Sample repo for CPE 322 class
+# Sample Heading
 
-# CPE322
-Sample repo for CPE 322 class
+This is **bold text** and this is *italic text*.
 
+> This is a block quote.
 
+## Lists
 
-## Course Topics
-- list!
+### Ordered List
+1. First item
+2. Second item
+3. Third item
 
-## Projects
-1. **Project 1**
+### Unordered List
+- Item one
+- Item two
+- Item three
 
-## Getting Started
+## Code
 
-### Prerequisites
-- Python and stuff
+Inline code looks like this: `print("Hello, world!")`
+
+Code block example:
+```python
+def greet():
+    print("Hello, world!")
+
+greet()
