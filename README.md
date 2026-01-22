@@ -15,6 +15,8 @@ This is **bold text** and this is *italic text*.
 - Item one
 - Item two
 - Item three
+  
+---
 
 ### Image
 ![Stevens Institute of Technology Logo](https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/Stevens_Institute_of_Technology_Logo)
